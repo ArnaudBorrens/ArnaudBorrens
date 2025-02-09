@@ -8,5 +8,6 @@
 
 :scroll:Courses & Certifications
 
+- Noble Desktop Data Science Certificate</br>
 - IBM Data Science Professional Certificate</br>
 - LSE Data Analysis for Management Certificate</br>
